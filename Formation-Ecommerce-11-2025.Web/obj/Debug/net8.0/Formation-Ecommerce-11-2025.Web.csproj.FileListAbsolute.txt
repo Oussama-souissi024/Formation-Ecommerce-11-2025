@@ -156,3 +156,4 @@ C:\Users\Oussama Souissi\Desktop\formation 2\11-25\Formation-Ecommerce-11-2025.W
 C:\Users\Oussama Souissi\Desktop\formation 2\11-25\Formation-Ecommerce-11-2025.Web\Formation-Ecommerce-11-2025.Web\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Web.pdb
 C:\Users\Oussama Souissi\Desktop\formation 2\11-25\Formation-Ecommerce-11-2025.Web\Formation-Ecommerce-11-2025.Web\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Web.genruntimeconfig.cache
 C:\Users\Oussama Souissi\Desktop\formation 2\11-25\Formation-Ecommerce-11-2025.Web\Formation-Ecommerce-11-2025.Web\obj\Debug\net8.0\ref\Formation-Ecommerce-11-2025.Web.dll
+C:\Users\Oussama Souissi\Desktop\formation 2\11-25\Formation-Ecommerce-11-2025.Web\Formation-Ecommerce-11-2025.Web\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Web.sourcelink.json

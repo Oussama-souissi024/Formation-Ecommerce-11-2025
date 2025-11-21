@@ -9,3 +9,4 @@ C:\Users\Oussama Souissi\Desktop\formation 2\11-25\Formation-Ecommerce-11-2025.W
 C:\Users\Oussama Souissi\Desktop\formation 2\11-25\Formation-Ecommerce-11-2025.Web\Formation-Ecommerce-11-2025.Application\obj\Debug\net8.0\refint\Formation-Ecommerce-11-2025.Application.dll
 C:\Users\Oussama Souissi\Desktop\formation 2\11-25\Formation-Ecommerce-11-2025.Web\Formation-Ecommerce-11-2025.Application\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Application.pdb
 C:\Users\Oussama Souissi\Desktop\formation 2\11-25\Formation-Ecommerce-11-2025.Web\Formation-Ecommerce-11-2025.Application\obj\Debug\net8.0\ref\Formation-Ecommerce-11-2025.Application.dll
+C:\Users\Oussama Souissi\Desktop\formation 2\11-25\Formation-Ecommerce-11-2025.Web\Formation-Ecommerce-11-2025.Application\obj\Debug\net8.0\Formation-Ecommerce-11-2025.Application.sourcelink.json

@@ -25,7 +25,12 @@ builder.Services.AddRazorPages();
 
 //Dependancy Injection 
 builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
-builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));  
+builder.Services.AddScoped<IAuthRepository, AuthRepository>();
+
+
+
+
 
 var app = builder.Build();
 
