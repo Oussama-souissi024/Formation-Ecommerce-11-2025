@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9u5rnSGS0wq2B9jquASTbFX9868pedJWkk+svwCyEzE=",
+  "Hash": "ExeTDy3j1RfTvg2Y1xXzysEADTF5YYjXUtiCPNTh0oE=",
   "Source": "Formation-Ecommerce-11-2025.Web",
   "BasePath": "_content/Formation-Ecommerce-11-2025.Web",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "cakovorw01",
-      "Integrity": "tAsO527UOxoAU+86mlZP9QTgPav+onICzTeRt1Om51o=",
+      "Fingerprint": "zp1fevsiwj",
+      "Integrity": "iV+CymSaWkXbfaphLJYBmEUtoB28+q5ZHPiuI5n3YAE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Formation-Ecommerce-11-2025.Web.styles.css"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "cakovorw01",
-      "Integrity": "tAsO527UOxoAU+86mlZP9QTgPav+onICzTeRt1Om51o=",
+      "Fingerprint": "zp1fevsiwj",
+      "Integrity": "iV+CymSaWkXbfaphLJYBmEUtoB28+q5ZHPiuI5n3YAE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Formation-Ecommerce-11-2025.Web.bundle.scp.css"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "ufhcs6muu1",
+      "Integrity": "Sjd/5ITyqSY23hBJ64Nz/Jn2mWgDJWrSxHjXgZCohb8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1321,51 +1321,6 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025.Web\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "362"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 07 Nov 2025 18:43:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
-        }
-      ]
-    },
-    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025.Web\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -1376,7 +1331,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "449"
         },
         {
           "Name": "Content-Type",
@@ -1384,11 +1339,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"Sjd/5ITyqSY23hBJ64Nz/Jn2mWgDJWrSxHjXgZCohb8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Nov 2025 18:43:50 GMT"
+          "Value": "Tue, 25 Nov 2025 17:12:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1398,7 +1353,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-Sjd/5ITyqSY23hBJ64Nz/Jn2mWgDJWrSxHjXgZCohb8="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.ufhcs6muu1.css",
+      "AssetFile": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025.Web\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Sjd/5ITyqSY23hBJ64Nz/Jn2mWgDJWrSxHjXgZCohb8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Nov 2025 17:12:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ufhcs6muu1"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Sjd/5ITyqSY23hBJ64Nz/Jn2mWgDJWrSxHjXgZCohb8="
         }
       ]
     },
@@ -1495,7 +1495,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1149"
+          "Value": "1154"
         },
         {
           "Name": "Content-Type",
@@ -1503,11 +1503,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tAsO527UOxoAU+86mlZP9QTgPav+onICzTeRt1Om51o=\""
+          "Value": "\"iV+CymSaWkXbfaphLJYBmEUtoB28+q5ZHPiuI5n3YAE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Nov 2025 17:31:49 GMT"
+          "Value": "Tue, 25 Nov 2025 17:13:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1517,97 +1517,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-tAsO527UOxoAU+86mlZP9QTgPav+onICzTeRt1Om51o="
-        }
-      ]
-    },
-    {
-      "Route": "Formation-Ecommerce-11-2025.Web.cakovorw01.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Formation-Ecommerce-11-2025.Web.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1149"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"tAsO527UOxoAU+86mlZP9QTgPav+onICzTeRt1Om51o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Nov 2025 17:31:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "cakovorw01"
-        },
-        {
-          "Name": "label",
-          "Value": "Formation-Ecommerce-11-2025.Web.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-tAsO527UOxoAU+86mlZP9QTgPav+onICzTeRt1Om51o="
-        }
-      ]
-    },
-    {
-      "Route": "Formation-Ecommerce-11-2025.Web.cakovorw01.styles.css",
-      "AssetFile": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Formation-Ecommerce-11-2025.Web.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1149"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"tAsO527UOxoAU+86mlZP9QTgPav+onICzTeRt1Om51o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Nov 2025 17:31:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "cakovorw01"
-        },
-        {
-          "Name": "label",
-          "Value": "Formation-Ecommerce-11-2025.Web.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-tAsO527UOxoAU+86mlZP9QTgPav+onICzTeRt1Om51o="
+          "Value": "sha256-iV+CymSaWkXbfaphLJYBmEUtoB28+q5ZHPiuI5n3YAE="
         }
       ]
     },
@@ -1622,7 +1532,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1149"
+          "Value": "1154"
         },
         {
           "Name": "Content-Type",
@@ -1630,11 +1540,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tAsO527UOxoAU+86mlZP9QTgPav+onICzTeRt1Om51o=\""
+          "Value": "\"iV+CymSaWkXbfaphLJYBmEUtoB28+q5ZHPiuI5n3YAE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Nov 2025 17:31:49 GMT"
+          "Value": "Tue, 25 Nov 2025 17:13:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1644,7 +1554,97 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-tAsO527UOxoAU+86mlZP9QTgPav+onICzTeRt1Om51o="
+          "Value": "sha256-iV+CymSaWkXbfaphLJYBmEUtoB28+q5ZHPiuI5n3YAE="
+        }
+      ]
+    },
+    {
+      "Route": "Formation-Ecommerce-11-2025.Web.zp1fevsiwj.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Formation-Ecommerce-11-2025.Web.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1154"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iV+CymSaWkXbfaphLJYBmEUtoB28+q5ZHPiuI5n3YAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Nov 2025 17:13:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zp1fevsiwj"
+        },
+        {
+          "Name": "label",
+          "Value": "Formation-Ecommerce-11-2025.Web.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iV+CymSaWkXbfaphLJYBmEUtoB28+q5ZHPiuI5n3YAE="
+        }
+      ]
+    },
+    {
+      "Route": "Formation-Ecommerce-11-2025.Web.zp1fevsiwj.styles.css",
+      "AssetFile": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Formation-Ecommerce-11-2025.Web.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1154"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iV+CymSaWkXbfaphLJYBmEUtoB28+q5ZHPiuI5n3YAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Nov 2025 17:13:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zp1fevsiwj"
+        },
+        {
+          "Name": "label",
+          "Value": "Formation-Ecommerce-11-2025.Web.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iV+CymSaWkXbfaphLJYBmEUtoB28+q5ZHPiuI5n3YAE="
         }
       ]
     },

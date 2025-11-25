@@ -3,36 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{447B495B-06DC-4F04-878F-91105D753ADA}|Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025.Web.csproj|c:\\users\\oussama souissi\\desktop\\formation 2\\11-25\\formation-ecommerce-11-2025.web\\formation-ecommerce-11-2025.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{447B495B-06DC-4F04-878F-91105D753ADA}|Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025.Web.csproj|solutionrelative:formation-ecommerce-11-2025.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|c:\\users\\oussama souissi\\desktop\\formation 2\\11-25\\formation-ecommerce-11-2025.web\\formation-ecommerce-11-2025\\views\\category\\categoryindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|solutionrelative:formation-ecommerce-11-2025\\views\\category\\categoryindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16D659BD-8EBE-41D6-B068-2D42885875C8}|Formation-Ecommerce-11-2025.Infrastructure\\Formation-Ecommerce-11-2025.Infrastructure.csproj|c:\\users\\oussama souissi\\desktop\\formation 2\\11-25\\formation-ecommerce-11-2025.web\\formation-ecommerce-11-2025.infrastructure\\persistence\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16D659BD-8EBE-41D6-B068-2D42885875C8}|Formation-Ecommerce-11-2025.Infrastructure\\Formation-Ecommerce-11-2025.Infrastructure.csproj|solutionrelative:formation-ecommerce-11-2025.infrastructure\\persistence\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|c:\\users\\oussama souissi\\desktop\\formation 2\\11-25\\formation-ecommerce-11-2025.web\\formation-ecommerce-11-2025\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|solutionrelative:formation-ecommerce-11-2025\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16D659BD-8EBE-41D6-B068-2D42885875C8}|Formation-Ecommerce-11-2025.Infrastructure\\Formation-Ecommerce-11-2025.Infrastructure.csproj|c:\\users\\oussama souissi\\desktop\\formation 2\\11-25\\formation-ecommerce-11-2025.web\\formation-ecommerce-11-2025.infrastructure\\persistence\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16D659BD-8EBE-41D6-B068-2D42885875C8}|Formation-Ecommerce-11-2025.Infrastructure\\Formation-Ecommerce-11-2025.Infrastructure.csproj|solutionrelative:formation-ecommerce-11-2025.infrastructure\\persistence\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D16FD65-A7CE-4EB4-A4E2-16E3C1748A7E}|Formation-Ecommerce-11-2025.Application\\Formation-Ecommerce-11-2025.Application.csproj|c:\\users\\oussama souissi\\desktop\\formation 2\\11-25\\formation-ecommerce-11-2025.web\\formation-ecommerce-11-2025.application\\categories\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D16FD65-A7CE-4EB4-A4E2-16E3C1748A7E}|Formation-Ecommerce-11-2025.Application\\Formation-Ecommerce-11-2025.Application.csproj|solutionrelative:formation-ecommerce-11-2025.application\\categories\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF60606D-AEB4-4950-96A3-36A27B6F5228}|Formation-Ecommerce-11-2025.Core\\Formation-Ecommerce-11-2025.Core.csproj|c:\\users\\oussama souissi\\desktop\\formation 2\\11-25\\formation-ecommerce-11-2025.web\\formation-ecommerce-11-2025.core\\interfaces\\repositories\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF60606D-AEB4-4950-96A3-36A27B6F5228}|Formation-Ecommerce-11-2025.Core\\Formation-Ecommerce-11-2025.Core.csproj|solutionrelative:formation-ecommerce-11-2025.core\\interfaces\\repositories\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|c:\\users\\oussama souissi\\desktop\\formation 2\\11-25\\formation-ecommerce-11-2025.web\\formation-ecommerce-11-2025\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|solutionrelative:formation-ecommerce-11-2025\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16D659BD-8EBE-41D6-B068-2D42885875C8}|Formation-Ecommerce-11-2025.Infrastructure\\Formation-Ecommerce-11-2025.Infrastructure.csproj|c:\\users\\oussama souissi\\desktop\\formation 2\\11-25\\formation-ecommerce-11-2025.web\\formation-ecommerce-11-2025.infrastructure\\persistence\\repositories\\base\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16D659BD-8EBE-41D6-B068-2D42885875C8}|Formation-Ecommerce-11-2025.Infrastructure\\Formation-Ecommerce-11-2025.Infrastructure.csproj|solutionrelative:formation-ecommerce-11-2025.infrastructure\\persistence\\repositories\\base\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|c:\\users\\oussama souissi\\desktop\\formation 2\\11-25\\formation-ecommerce-11-2025.web\\formation-ecommerce-11-2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|solutionrelative:formation-ecommerce-11-2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF60606D-AEB4-4950-96A3-36A27B6F5228}|Formation-Ecommerce-11-2025.Core\\Formation-Ecommerce-11-2025.Core.csproj|c:\\users\\oussama souissi\\desktop\\formation 2\\11-25\\formation-ecommerce-11-2025.web\\formation-ecommerce-11-2025.core\\entities\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF60606D-AEB4-4950-96A3-36A27B6F5228}|Formation-Ecommerce-11-2025.Core\\Formation-Ecommerce-11-2025.Core.csproj|solutionrelative:formation-ecommerce-11-2025.core\\entities\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|c:\\users\\oussama souissi\\desktop\\formation 2\\11-25\\formation-ecommerce-11-2025.web\\formation-ecommerce-11-2025\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|solutionrelative:formation-ecommerce-11-2025\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF60606D-AEB4-4950-96A3-36A27B6F5228}|Formation-Ecommerce-11-2025.Core\\Formation-Ecommerce-11-2025.Core.csproj|c:\\users\\oussama souissi\\desktop\\formation 2\\11-25\\formation-ecommerce-11-2025.web\\formation-ecommerce-11-2025.core\\interfaces\\repositories\\icouponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF60606D-AEB4-4950-96A3-36A27B6F5228}|Formation-Ecommerce-11-2025.Core\\Formation-Ecommerce-11-2025.Core.csproj|solutionrelative:formation-ecommerce-11-2025.core\\interfaces\\repositories\\icouponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|c:\\users\\oussama souissi\\desktop\\formation 2\\11-25\\formation-ecommerce-11-2025.web\\formation-ecommerce-11-2025\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|solutionrelative:formation-ecommerce-11-2025\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF60606D-AEB4-4950-96A3-36A27B6F5228}|Formation-Ecommerce-11-2025.Core\\Formation-Ecommerce-11-2025.Core.csproj|c:\\users\\oussama souissi\\desktop\\formation 2\\11-25\\formation-ecommerce-11-2025.web\\formation-ecommerce-11-2025.core\\interfaces\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF60606D-AEB4-4950-96A3-36A27B6F5228}|Formation-Ecommerce-11-2025.Core\\Formation-Ecommerce-11-2025.Core.csproj|solutionrelative:formation-ecommerce-11-2025.core\\interfaces\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|c:\\users\\oussama souissi\\desktop\\formation 2\\11-25\\formation-ecommerce-11-2025.web\\formation-ecommerce-11-2025\\views\\home\\safwenaction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|solutionrelative:formation-ecommerce-11-2025\\views\\home\\safwenaction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|c:\\users\\oussama souissi\\desktop\\formation 2\\11-25\\formation-ecommerce-11-2025.web\\formation-ecommerce-11-2025\\mapping\\category\\categorymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|solutionrelative:formation-ecommerce-11-2025\\mapping\\category\\categorymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|c:\\users\\oussama souissi\\desktop\\formation 2\\11-25\\formation-ecommerce-11-2025.web\\formation-ecommerce-11-2025\\models\\category\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|solutionrelative:formation-ecommerce-11-2025\\models\\category\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,102 +78,133 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025.Infrastructure\\Persistence\\Repositories\\Base\\Repository.cs",
-              "RelativeDocumentMoniker": "Formation-Ecommerce-11-2025.Infrastructure\\Persistence\\Repositories\\Base\\Repository.cs",
-              "ToolTip": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025.Infrastructure\\Persistence\\Repositories\\Base\\Repository.cs",
-              "RelativeToolTip": "Formation-Ecommerce-11-2025.Infrastructure\\Persistence\\Repositories\\Base\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T19:06:02.452Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025.Web\\Program.cs",
-              "RelativeDocumentMoniker": "Formation-Ecommerce-11-2025.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025.Web\\Program.cs",
-              "RelativeToolTip": "Formation-Ecommerce-11-2025.Web\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T19:00:59.079Z",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\appsettings.json",
+              "RelativeDocumentMoniker": "Formation-Ecommerce-11-2025\\appsettings.json",
+              "ToolTip": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\appsettings.json",
+              "RelativeToolTip": "Formation-Ecommerce-11-2025\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-25T20:30:01.282Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CartRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025.Infrastructure\\Persistence\\Repositories\\CartRepository.cs",
-              "RelativeDocumentMoniker": "Formation-Ecommerce-11-2025.Infrastructure\\Persistence\\Repositories\\CartRepository.cs",
-              "ToolTip": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025.Infrastructure\\Persistence\\Repositories\\CartRepository.cs",
-              "RelativeToolTip": "Formation-Ecommerce-11-2025.Infrastructure\\Persistence\\Repositories\\CartRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Formation-Ecommerce-11-2025\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Formation-Ecommerce-11-2025\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T19:38:18.591Z",
+              "WhenOpened": "2025-11-25T20:27:07.197Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025.Core\\Entities\\Identity\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "Formation-Ecommerce-11-2025.Core\\Entities\\Identity\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025.Core\\Entities\\Identity\\ApplicationUser.cs",
-              "RelativeToolTip": "Formation-Ecommerce-11-2025.Core\\Entities\\Identity\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T18:57:41.763Z"
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Formation-Ecommerce-11-2025\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Formation-Ecommerce-11-2025\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T20:26:08.599Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ICouponRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025.Core\\Interfaces\\Repositories\\ICouponRepository.cs",
-              "RelativeDocumentMoniker": "Formation-Ecommerce-11-2025.Core\\Interfaces\\Repositories\\ICouponRepository.cs",
-              "ToolTip": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025.Core\\Interfaces\\Repositories\\ICouponRepository.cs",
-              "RelativeToolTip": "Formation-Ecommerce-11-2025.Core\\Interfaces\\Repositories\\ICouponRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T18:55:03.034Z"
+              "DocumentIndex": 0,
+              "Title": "CategoryIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\Views\\Category\\CategoryIndex.cshtml",
+              "RelativeDocumentMoniker": "Formation-Ecommerce-11-2025\\Views\\Category\\CategoryIndex.cshtml",
+              "ToolTip": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\Views\\Category\\CategoryIndex.cshtml",
+              "RelativeToolTip": "Formation-Ecommerce-11-2025\\Views\\Category\\CategoryIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T20:23:44.302Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IAuthRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025.Core\\Interfaces\\Repositories\\IAuthRepository.cs",
-              "RelativeDocumentMoniker": "Formation-Ecommerce-11-2025.Core\\Interfaces\\Repositories\\IAuthRepository.cs",
-              "ToolTip": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025.Core\\Interfaces\\Repositories\\IAuthRepository.cs",
-              "RelativeToolTip": "Formation-Ecommerce-11-2025.Core\\Interfaces\\Repositories\\IAuthRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\Program.cs",
+              "RelativeDocumentMoniker": "Formation-Ecommerce-11-2025\\Program.cs",
+              "ToolTip": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\Program.cs",
+              "RelativeToolTip": "Formation-Ecommerce-11-2025\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T18:52:51.743Z"
+              "WhenOpened": "2025-11-25T20:20:12.143Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025.Infrastructure\\Persistence\\Repositories\\AuthRepository.cs",
-              "RelativeDocumentMoniker": "Formation-Ecommerce-11-2025.Infrastructure\\Persistence\\Repositories\\AuthRepository.cs",
-              "ToolTip": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025.Infrastructure\\Persistence\\Repositories\\AuthRepository.cs",
-              "RelativeToolTip": "Formation-Ecommerce-11-2025.Infrastructure\\Persistence\\Repositories\\AuthRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "CategoryMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\Mapping\\Category\\CategoryMappingProfile.cs",
+              "RelativeDocumentMoniker": "Formation-Ecommerce-11-2025\\Mapping\\Category\\CategoryMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\Mapping\\Category\\CategoryMappingProfile.cs",
+              "RelativeToolTip": "Formation-Ecommerce-11-2025\\Mapping\\Category\\CategoryMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T18:50:29.46Z",
+              "WhenOpened": "2025-11-25T20:19:32.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\Models\\Category\\CategoryViewModel.cs",
+              "RelativeDocumentMoniker": "Formation-Ecommerce-11-2025\\Models\\Category\\CategoryViewModel.cs",
+              "ToolTip": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\Models\\Category\\CategoryViewModel.cs",
+              "RelativeToolTip": "Formation-Ecommerce-11-2025\\Models\\Category\\CategoryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T20:08:33.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025.Application\\Categories\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Formation-Ecommerce-11-2025.Application\\Categories\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025.Application\\Categories\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "Formation-Ecommerce-11-2025.Application\\Categories\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T20:07:02.197Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025.Core\\Interfaces\\Repositories\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "Formation-Ecommerce-11-2025.Core\\Interfaces\\Repositories\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025.Core\\Interfaces\\Repositories\\ICategoryRepository.cs",
-              "RelativeToolTip": "Formation-Ecommerce-11-2025.Core\\Interfaces\\Repositories\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Title": "SafwenAction.cshtml",
+              "DocumentMoniker": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\Views\\Home\\SafwenAction.cshtml",
+              "RelativeDocumentMoniker": "Formation-Ecommerce-11-2025\\Views\\Home\\SafwenAction.cshtml",
+              "ToolTip": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\Views\\Home\\SafwenAction.cshtml",
+              "RelativeToolTip": "Formation-Ecommerce-11-2025\\Views\\Home\\SafwenAction.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T20:06:03.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Formation-Ecommerce-11-2025\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Formation-Ecommerce-11-2025\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T15:32:33.043Z"
+              "WhenOpened": "2025-11-25T20:05:56.592Z",
+              "EditorCaption": ""
             }
           ]
         }

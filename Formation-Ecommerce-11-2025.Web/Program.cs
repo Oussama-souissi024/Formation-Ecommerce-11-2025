@@ -1,7 +1,7 @@
+using Formation_Ecommerce_11_2025.Application.Categories.Mapping;
 using Formation_Ecommerce_11_2025.Core.Entities.Identity;
 using Formation_Ecommerce_11_2025.Core.Interfaces.Repositories;
 using Formation_Ecommerce_11_2025.Core.Interfaces.Repositories.Base;
-using Formation_Ecommerce_11_2025.Infrastructure;
 using Formation_Ecommerce_11_2025.Infrastructure.Persistence;
 using Formation_Ecommerce_11_2025.Infrastructure.Persistence.Repositories;
 using Formation_Ecommerce_11_2025.Infrastructure.Persistence.Repositories.Base;
@@ -28,7 +28,7 @@ builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));  
 builder.Services.AddScoped<IAuthRepository, AuthRepository>();
 
-
+builder.Services.AddAutoMapper(typeof(CategoryProfile));
 
 
 
