@@ -21,5 +21,39 @@ namespace Formation_Ecommerce_11_2025.Controllers
             IEnumerable<CategoryViewModel> viewModels = _mapper.Map<IEnumerable<CategoryViewModel>>(categories);
             return View(viewModels);
         }
+
+        public IActionResult CreateCategory()
+        {
+            return View(new CreateCategoryViewModel());
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> CreateCategory(CreateCategoryViewModel createCategoryViewModel)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(createCategoryViewModel);
+            }
+
+            try
+            {
+                var createCategoryDto = _mapper.Map<CreateCategoryDto>(createCategoryViewModel);
+                var result = await _categoryService.AddAsync(createCategoryDto);
+
+                if (result != null)
+                {
+                    TempData["success"] = "Category created successfully!";
+                    return RedirectToAction(nameof(CategoryIndex));
+                }
+                return View(createCategoryViewModel);
+            }
+            catch (Exception ex)
+            {
+                // Consider logging the exception
+                ModelState.AddModelError("", "An error occurred while creating the category.");
+                TempData["error"] = "Failed to create category.";
+                return View(createCategoryViewModel);
+            }
+        }
     }
 }

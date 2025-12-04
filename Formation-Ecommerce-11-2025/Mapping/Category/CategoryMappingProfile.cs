@@ -10,6 +10,8 @@ namespace Formation_Ecommerce_11_2025.Mapping.Category
         {
             // Mapping pour CategoryViewModel <-> CategoryDto
             CreateMap<CategoryViewModel, CategoryDto>().ReverseMap();
+
+            CreateMap<CreateCategoryViewModel, CreateCategoryDto>();
         }
     }
 }
