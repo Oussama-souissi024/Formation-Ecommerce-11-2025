@@ -100,12 +100,6 @@ flowchart LR
                  Votre niveau
 ```
 
-> [!NOTE]
-> **Salaire indicatif (France)** :
-> - Paris : 35-42k€ brut/an
-> - Province : 30-38k€ brut/an
-
----
 
 ## 💡 Valeur ajoutée pour un développeur junior
 
