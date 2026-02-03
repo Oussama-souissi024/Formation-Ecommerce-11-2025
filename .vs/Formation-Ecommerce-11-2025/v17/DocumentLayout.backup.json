@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|c:\\users\\oussama souissi\\desktop\\formation 2\\11-25\\formation-ecommerce-11-2025.web\\formation-ecommerce-11-2025\\views\\order\\orderindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|solutionrelative:formation-ecommerce-11-2025\\views\\order\\orderindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|c:\\users\\oussama souissi\\desktop\\formation 2\\11-25\\formation-ecommerce-11-2025.web\\formation-ecommerce-11-2025\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|solutionrelative:formation-ecommerce-11-2025\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|c:\\users\\oussama souissi\\desktop\\formation 2\\11-25\\formation-ecommerce-11-2025.web\\formation-ecommerce-11-2025\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|solutionrelative:formation-ecommerce-11-2025\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|c:\\users\\oussama souissi\\desktop\\formation 2\\11-25\\formation-ecommerce-11-2025.web\\formation-ecommerce-11-2025\\views\\order\\orderdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|solutionrelative:formation-ecommerce-11-2025\\views\\order\\orderdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|c:\\users\\oussama souissi\\desktop\\formation 2\\11-25\\formation-ecommerce-11-2025.web\\formation-ecommerce-11-2025\\mapping\\cart\\cartmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|solutionrelative:formation-ecommerce-11-2025\\mapping\\cart\\cartmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF60606D-AEB4-4950-96A3-36A27B6F5228}|Formation-Ecommerce-11-2025.Core\\Formation-Ecommerce-11-2025.Core.csproj|c:\\users\\oussama souissi\\desktop\\formation 2\\11-25\\formation-ecommerce-11-2025.web\\formation-ecommerce-11-2025.core\\entities\\cart\\cartheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF60606D-AEB4-4950-96A3-36A27B6F5228}|Formation-Ecommerce-11-2025.Core\\Formation-Ecommerce-11-2025.Core.csproj|solutionrelative:formation-ecommerce-11-2025.core\\entities\\cart\\cartheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF60606D-AEB4-4950-96A3-36A27B6F5228}|Formation-Ecommerce-11-2025.Core\\Formation-Ecommerce-11-2025.Core.csproj|c:\\users\\oussama souissi\\desktop\\formation 2\\11-25\\formation-ecommerce-11-2025.web\\formation-ecommerce-11-2025.core\\utility\\staticdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF60606D-AEB4-4950-96A3-36A27B6F5228}|Formation-Ecommerce-11-2025.Core\\Formation-Ecommerce-11-2025.Core.csproj|solutionrelative:formation-ecommerce-11-2025.core\\utility\\staticdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|c:\\users\\oussama souissi\\desktop\\formation 2\\11-25\\formation-ecommerce-11-2025.web\\formation-ecommerce-11-2025\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|solutionrelative:formation-ecommerce-11-2025\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|c:\\users\\oussama souissi\\desktop\\formation 2\\11-25\\formation-ecommerce-11-2025.web\\formation-ecommerce-11-2025\\models\\cart\\checkoutcartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|solutionrelative:formation-ecommerce-11-2025\\models\\cart\\checkoutcartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|c:\\users\\oussama souissi\\desktop\\formation 2\\11-25\\formation-ecommerce-11-2025.web\\formation-ecommerce-11-2025\\views\\cart\\cartindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32E04062-0345-4EA2-8C7C-0E874EC3F47D}|Formation-Ecommerce-11-2025\\Formation-Ecommerce-11-2025.csproj|solutionrelative:formation-ecommerce-11-2025\\views\\cart\\cartindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\Views\\Order\\OrderIndex.cshtml",
+              "RelativeDocumentMoniker": "Formation-Ecommerce-11-2025\\Views\\Order\\OrderIndex.cshtml",
+              "ToolTip": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\Views\\Order\\OrderIndex.cshtml",
+              "RelativeToolTip": "Formation-Ecommerce-11-2025\\Views\\Order\\OrderIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T20:14:34.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Formation-Ecommerce-11-2025\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Formation-Ecommerce-11-2025\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T20:14:01.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\Views\\Order\\OrderDetail.cshtml",
+              "RelativeDocumentMoniker": "Formation-Ecommerce-11-2025\\Views\\Order\\OrderDetail.cshtml",
+              "ToolTip": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\Views\\Order\\OrderDetail.cshtml",
+              "RelativeToolTip": "Formation-Ecommerce-11-2025\\Views\\Order\\OrderDetail.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T20:08:57.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\Mapping\\Cart\\CartMappingProfile.cs",
+              "RelativeDocumentMoniker": "Formation-Ecommerce-11-2025\\Mapping\\Cart\\CartMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\Mapping\\Cart\\CartMappingProfile.cs",
+              "RelativeToolTip": "Formation-Ecommerce-11-2025\\Mapping\\Cart\\CartMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T19:57:11.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StaticDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025.Core\\Utility\\StaticDetails.cs",
+              "RelativeDocumentMoniker": "Formation-Ecommerce-11-2025.Core\\Utility\\StaticDetails.cs",
+              "ToolTip": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025.Core\\Utility\\StaticDetails.cs",
+              "RelativeToolTip": "Formation-Ecommerce-11-2025.Core\\Utility\\StaticDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T19:55:49.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartHeader.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025.Core\\Entities\\Cart\\CartHeader.cs",
+              "RelativeDocumentMoniker": "Formation-Ecommerce-11-2025.Core\\Entities\\Cart\\CartHeader.cs",
+              "ToolTip": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025.Core\\Entities\\Cart\\CartHeader.cs",
+              "RelativeToolTip": "Formation-Ecommerce-11-2025.Core\\Entities\\Cart\\CartHeader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T19:50:54.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CheckoutCartViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\Models\\Cart\\CheckoutCartViewModel.cs",
+              "RelativeDocumentMoniker": "Formation-Ecommerce-11-2025\\Models\\Cart\\CheckoutCartViewModel.cs",
+              "ToolTip": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\Models\\Cart\\CheckoutCartViewModel.cs",
+              "RelativeToolTip": "Formation-Ecommerce-11-2025\\Models\\Cart\\CheckoutCartViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T19:44:55.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "Formation-Ecommerce-11-2025\\Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "Formation-Ecommerce-11-2025\\Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T19:41:56.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\Views\\Cart\\CartIndex.cshtml",
+              "RelativeDocumentMoniker": "Formation-Ecommerce-11-2025\\Views\\Cart\\CartIndex.cshtml",
+              "ToolTip": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\Views\\Cart\\CartIndex.cshtml",
+              "RelativeToolTip": "Formation-Ecommerce-11-2025\\Views\\Cart\\CartIndex.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAG0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T19:39:56.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Formation-Ecommerce-11-2025\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Oussama Souissi\\Desktop\\formation 2\\11-25\\Formation-Ecommerce-11-2025.Web\\Formation-Ecommerce-11-2025\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Formation-Ecommerce-11-2025\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T19:33:38.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
