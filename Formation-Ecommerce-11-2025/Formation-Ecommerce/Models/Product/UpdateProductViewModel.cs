@@ -1,0 +1,51 @@
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Formation_Ecommerce_11_2025.Models.Product
+{
+    /// <summary>
+    /// ViewModel du formulaire de mise à jour d'un produit : inclut l'Id et les champs éditables (avec image optionnelle).
+    /// </summary>
+    /// <remarks>
+    /// Points pédagogiques :
+    /// - <see cref="Id"/> identifie le produit à modifier.
+    /// - <see cref="ImageFile"/> est optionnel : la vue peut proposer de conserver l'image existante (<see cref="ImageUrl"/>).
+    /// - Le service applicatif décide comment traiter l'upload (remplacer, supprimer, conserver).
+    /// </remarks>
+    public class UpdateProductViewModel
+    {
+        public Guid Id { get; set; }
+
+        [Required(ErrorMessage = "Le nom du produit est obligatoire")]
+        [StringLength(200, MinimumLength = 2, ErrorMessage = "Le nom doit contenir entre 2 et 200 caractères")]
+        [Display(Name = "Nom du produit")]
+        public string Name { get; set; }
+
+        [Required(ErrorMessage = "Le prix est obligatoire")]
+        [Range(0.01, 100000, ErrorMessage = "Le prix doit être compris entre 0,01 et 100 000")]
+        [Display(Name = "Prix")]
+        [DisplayFormat(DataFormatString = "{0:C}", ApplyFormatInEditMode = true)]
+        public decimal? Price { get; set; }
+
+        [StringLength(1000, ErrorMessage = "La description ne peut pas dépasser 1000 caractères")]
+        [Display(Name = "Description")]
+        public string? Description { get; set; }
+
+        [Display(Name = "URL de l'image")]
+        public string? ImageUrl { get; set; }
+
+        [Range(0, 10000, ErrorMessage = "La quantité doit être comprise entre 0 et 10 000")]
+        [Display(Name = "Quantité")]
+        public int? Count { get; set; } = 1;
+
+        [Display(Name = "Image du produit")]
+        public IFormFile? ImageFile { get; set; }
+
+        [Display(Name = "Nom de la catégorie")]
+        public string? CategoryName { get; set; }
+
+        [Required(ErrorMessage = "La catégorie est obligatoire")]
+        [Display(Name = "Catégorie")]
+        public Guid? CategoryId { get; set; }
+    }
+}
+
