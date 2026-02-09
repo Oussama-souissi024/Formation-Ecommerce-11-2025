@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dOmEVJMCCgE=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Test\\Formation-Ecommerce.Test.csproj",
+  "dgSpecHash": "0zRWqRgH4O4=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce.Test\\Formation-Ecommerce.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oussa\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\oussa\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
@@ -179,5 +179,17 @@
     "C:\\Users\\oussa\\.nuget\\packages\\xunit.extensibility.execution\\2.5.3\\xunit.extensibility.execution.2.5.3.nupkg.sha512",
     "C:\\Users\\oussa\\.nuget\\packages\\xunit.runner.visualstudio\\2.5.3\\xunit.runner.visualstudio.2.5.3.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Les informations relatives au projet sont introuvables pour 'C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce\\Formation-Ecommerce.csproj'. Si vous utilisez Visual Studio, cela peut être dû au fait que le projet est déchargé ou qu'il ne fait pas partie de la solution actuelle. Dans ce cas, exécutez une restauration à partir de la ligne de commande. Sinon, il est possible que le fichier projet soit non valide ou que des cibles nécessaires à la restauration soient manquantes.",
+      "projectPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce.Test\\Formation-Ecommerce.Test.csproj",
+      "filePath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce.Test\\Formation-Ecommerce.Test.csproj",
+      "libraryId": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce\\Formation-Ecommerce.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

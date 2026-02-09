@@ -1,0 +1,57 @@
+version: '3.8'
+
+services:
+  # Application ASP.NET Core MVC
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: formation-ecommerce-web
+    ports:
+      - "8080:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Server=sqlserver;Database=FormationEcommerce;User Id=sa;Password=YourStrong@Passw0rd;TrustServerCertificate=True;
+      - EmailSettings__SmtpServer=smtp.example.com
+      - EmailSettings__SmtpPort=587
+      - EmailSettings__SmtpUsername=
+      - EmailSettings__SmtpPassword=
+      - EmailSettings__SenderName=Formation E-Commerce
+      - EmailSettings__SenderEmail=noreply@formation-ecommerce.local
+      - EmailSettings__EnableSsl=true
+    depends_on:
+      sqlserver:
+        condition: service_healthy
+    networks:
+      - formation-network
+    restart: unless-stopped
+
+  # SQL Server
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: formation-ecommerce-sql
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=YourStrong@Passw0rd
+      - MSSQL_PID=Express
+    ports:
+      - "1433:1433"
+    volumes:
+      - sqlserver-data:/var/opt/mssql
+    healthcheck:
+      test: /opt/mssql-tools18/bin/sqlcmd -S localhost -U sa -P "YourStrong@Passw0rd" -C -Q "SELECT 1" || exit 1
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 30s
+    networks:
+      - formation-network
+    restart: unless-stopped
+
+networks:
+  formation-network:
+    driver: bridge
+
+volumes:
+  sqlserver-data:
+    name: formation-ecommerce-sqldata

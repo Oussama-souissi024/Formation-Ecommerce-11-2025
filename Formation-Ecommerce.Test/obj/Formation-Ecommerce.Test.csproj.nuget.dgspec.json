@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Test\\Formation-Ecommerce.Test.csproj": {}
+    "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce.Test\\Formation-Ecommerce.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Application\\Formation-Ecommerce.Application.csproj": {
+    "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce.Application\\Formation-Ecommerce.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Application\\Formation-Ecommerce.Application.csproj",
+        "projectUniqueName": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce.Application\\Formation-Ecommerce.Application.csproj",
         "projectName": "Formation-Ecommerce.Application",
-        "projectPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Application\\Formation-Ecommerce.Application.csproj",
+        "projectPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce.Application\\Formation-Ecommerce.Application.csproj",
         "packagesPath": "C:\\Users\\oussa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Application\\obj\\",
+        "outputPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Core\\Formation-Ecommerce.Core.csproj": {
-                "projectPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Core\\Formation-Ecommerce.Core.csproj"
+              "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce.Core\\Formation-Ecommerce.Core.csproj": {
+                "projectPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce.Core\\Formation-Ecommerce.Core.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Core\\Formation-Ecommerce.Core.csproj": {
+    "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce.Core\\Formation-Ecommerce.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Core\\Formation-Ecommerce.Core.csproj",
+        "projectUniqueName": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce.Core\\Formation-Ecommerce.Core.csproj",
         "projectName": "Formation-Ecommerce.Core",
-        "projectPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Core\\Formation-Ecommerce.Core.csproj",
+        "projectPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce.Core\\Formation-Ecommerce.Core.csproj",
         "packagesPath": "C:\\Users\\oussa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Core\\obj\\",
+        "outputPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -158,14 +158,14 @@
         }
       }
     },
-    "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Infrastructure\\Formation-Ecommerce.Infrastructure.csproj": {
+    "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce.Infrastructure\\Formation-Ecommerce.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Infrastructure\\Formation-Ecommerce.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce.Infrastructure\\Formation-Ecommerce.Infrastructure.csproj",
         "projectName": "Formation-Ecommerce.Infrastructure",
-        "projectPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Infrastructure\\Formation-Ecommerce.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce.Infrastructure\\Formation-Ecommerce.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\oussa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -186,8 +186,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Core\\Formation-Ecommerce.Core.csproj": {
-                "projectPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Core\\Formation-Ecommerce.Core.csproj"
+              "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce.Core\\Formation-Ecommerce.Core.csproj": {
+                "projectPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce.Core\\Formation-Ecommerce.Core.csproj"
               }
             }
           }
@@ -254,14 +254,14 @@
         }
       }
     },
-    "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Test\\Formation-Ecommerce.Test.csproj": {
+    "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce.Test\\Formation-Ecommerce.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Test\\Formation-Ecommerce.Test.csproj",
+        "projectUniqueName": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce.Test\\Formation-Ecommerce.Test.csproj",
         "projectName": "Formation-Ecommerce.Test",
-        "projectPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Test\\Formation-Ecommerce.Test.csproj",
+        "projectPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce.Test\\Formation-Ecommerce.Test.csproj",
         "packagesPath": "C:\\Users\\oussa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Test\\obj\\",
+        "outputPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -282,17 +282,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Application\\Formation-Ecommerce.Application.csproj": {
-                "projectPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Application\\Formation-Ecommerce.Application.csproj"
+              "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce.Application\\Formation-Ecommerce.Application.csproj": {
+                "projectPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce.Application\\Formation-Ecommerce.Application.csproj"
               },
-              "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Core\\Formation-Ecommerce.Core.csproj": {
-                "projectPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Core\\Formation-Ecommerce.Core.csproj"
+              "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce.Core\\Formation-Ecommerce.Core.csproj": {
+                "projectPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce.Core\\Formation-Ecommerce.Core.csproj"
               },
-              "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Infrastructure\\Formation-Ecommerce.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Infrastructure\\Formation-Ecommerce.Infrastructure.csproj"
+              "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce.Infrastructure\\Formation-Ecommerce.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce.Infrastructure\\Formation-Ecommerce.Infrastructure.csproj"
               },
-              "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce\\Formation-Ecommerce.csproj": {
-                "projectPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce\\Formation-Ecommerce.csproj"
+              "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce\\Formation-Ecommerce.csproj": {
+                "projectPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce\\Formation-Ecommerce.csproj"
               }
             }
           }
@@ -336,92 +336,6 @@
             "xunit.runner.visualstudio": {
               "target": "Package",
               "version": "[2.5.3, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce\\Formation-Ecommerce.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce\\Formation-Ecommerce.csproj",
-        "projectName": "Formation-Ecommerce",
-        "projectPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce\\Formation-Ecommerce.csproj",
-        "packagesPath": "C:\\Users\\oussa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\oussa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {
-              "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Application\\Formation-Ecommerce.Application.csproj": {
-                "projectPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Application\\Formation-Ecommerce.Application.csproj"
-              },
-              "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Core\\Formation-Ecommerce.Core.csproj": {
-                "projectPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Core\\Formation-Ecommerce.Core.csproj"
-              },
-              "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Infrastructure\\Formation-Ecommerce.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Formation\\Projet full stack MVC\\Formation-Ecommerce-11-2025\\Formation-Ecommerce.Infrastructure\\Formation-Ecommerce.Infrastructure.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "10.0.100"
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.11, )"
             }
           },
           "imports": [

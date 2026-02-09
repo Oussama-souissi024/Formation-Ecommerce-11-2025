@@ -6,10 +6,12 @@
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![EF Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **Application e-commerce complète construite avec Clean Architecture**
 
-[🚀 Démarrage rapide](#lancer-le-projet-en-local) • [📖 Architecture](#architecture-clean-architecture) • [🧪 Tests](#tests-unitaires-et-intégration) • [📚 Extension API](#extension-vers-api--client-mvc)
+[🚀 Démarrage rapide](#lancer-le-projet-en-local) • [📖 Architecture](#architecture-clean-architecture) • [🧪 Tests](#tests-unitaires-et-intégration) • [� DevOps](#-devops-docker--azure) • [�📚 Extension API](#extension-vers-api--client-mvc)
 
 </div>
 
@@ -24,6 +26,7 @@
 - [📁 Structure du repository](#-structure-du-repository)
 - [🛠️ Stack technique](#️-stack-technique)
 - [🚀 Lancer le projet en local](#-lancer-le-projet-en-local)
+- [🐳 DevOps (Docker + Azure)](#-devops-docker--azure)
 - [🧪 Tests (unitaires et intégration)](#-tests-unitaires-et-intégration)
 - [📚 Extension vers API + Client MVC](#-extension-vers-api--client-mvc)
 - [📝 Licence / Usage](#-licence--usage)
@@ -387,6 +390,222 @@ dotnet run --project .\Formation-Ecommerce-11-2025
 ```
 
 L'application sera accessible sur : **https://localhost:5001** (ou le port configuré)
+
+---
+
+## 🐳 DevOps (Docker + Azure)
+
+> [!NOTE]
+> Cette section couvre la **containerisation** et le **déploiement Cloud** de l'application, compétences essentielles pour un développeur moderne.
+
+### 🎯 Objectifs DevOps
+
+| Compétence | Technologies |
+|------------|--------------|
+| **Containerisation** | Docker, Docker Compose |
+| **Registry** | Azure Container Registry (ACR) |
+| **Base de données Cloud** | Azure SQL Database |
+| **Hébergement** | Azure App Service |
+| **CI/CD** | GitHub Actions |
+| **Monitoring** | Application Insights |
+
+### 📊 Architecture de déploiement
+
+```mermaid
+flowchart TB
+    subgraph Dev["💻 Développement Local"]
+        Code["📝 Code Source"]
+        Docker["🐳 Docker Compose"]
+        LocalSQL["🗄️ SQL Server (container)"]
+    end
+
+    subgraph GitHub["📦 GitHub"]
+        Repo["Repository"]
+        Actions["⚙️ GitHub Actions"]
+    end
+
+    subgraph Azure["☁️ Azure"]
+        ACR["📦 Container Registry"]
+        AppService["🌐 App Service"]
+        AzureSQL["🗄️ Azure SQL Database"]
+        Insights["📊 Application Insights"]
+    end
+
+    Code -->|git push| Repo
+    Repo -->|trigger| Actions
+    Actions -->|build & push| ACR
+    Actions -->|deploy| AppService
+    ACR -->|pull image| AppService
+    AppService -->|connect| AzureSQL
+    AppService -->|logs| Insights
+    
+    Docker --> LocalSQL
+    
+    style Dev fill:#e3f2fd
+    style GitHub fill:#fff3e0
+    style Azure fill:#e8f5e9
+```
+
+### 🐳 Docker — Exécution locale
+
+#### Fichiers Docker inclus
+
+| Fichier | Description |
+|---------|-------------|
+| `Dockerfile` | Build multi-stage optimisé (.NET 8) |
+| `.dockerignore` | Exclusion des fichiers inutiles |
+| `docker-compose.yml` | Stack complète (App + SQL Server) |
+
+#### Lancer avec Docker Compose
+
+```powershell
+# Démarrer les conteneurs (app + SQL Server)
+docker-compose up -d
+
+# Vérifier les logs
+docker-compose logs -f web
+
+# Arrêter les conteneurs
+docker-compose down
+```
+
+L'application sera accessible sur : **http://localhost:8080**
+
+#### Structure du Dockerfile (Multi-stage)
+
+```mermaid
+flowchart LR
+    subgraph Stage1["📦 Stage 1: Build"]
+        SDK["SDK .NET 8"]
+        Restore["dotnet restore"]
+        Build["dotnet build"]
+    end
+    
+    subgraph Stage2["📦 Stage 2: Publish"]
+        Publish["dotnet publish"]
+    end
+    
+    subgraph Stage3["🚀 Stage 3: Runtime"]
+        Runtime["ASP.NET Runtime"]
+        App["Application"]
+    end
+    
+    Stage1 --> Stage2 --> Stage3
+    
+    style Stage1 fill:#e3f2fd
+    style Stage2 fill:#fff3e0
+    style Stage3 fill:#c8e6c9
+```
+
+> [!TIP]
+> Le build multi-stage réduit la taille de l'image finale (~373MB) en n'incluant que le runtime, pas le SDK.
+
+### ☁️ Azure — Déploiement Cloud
+
+#### Ressources Azure requises
+
+```mermaid
+flowchart TB
+    subgraph RG["📁 Resource Group: rg-formation-ecommerce"]
+        ACR["📦 Azure Container Registry\nacrformationecommerce"]
+        SQL["🗄️ SQL Server\nsql-formation-ecommerce"]
+        DB["💾 SQL Database\nFormationEcommerceDb"]
+        ASP["📋 App Service Plan\nasp-formation-ecommerce"]
+        App["🌐 Web App\nformation-ecommerce-app"]
+        AI["📊 Application Insights"]
+    end
+    
+    SQL --> DB
+    ASP --> App
+    ACR -.->|image| App
+    App -->|connect| DB
+    App -->|telemetry| AI
+    
+    style RG fill:#e8f5e9
+```
+
+#### Commandes de création (Azure CLI)
+
+```powershell
+# 1. Créer le Resource Group
+az group create --name rg-formation-ecommerce --location francecentral
+
+# 2. Créer Azure Container Registry
+az acr create --resource-group rg-formation-ecommerce --name acrformationecommerce --sku Basic
+
+# 3. Créer SQL Server + Database
+az sql server create --name sql-formation-ecommerce --resource-group rg-formation-ecommerce --location francecentral --admin-user sqladmin --admin-password "VotreMotDePasse@123"
+
+az sql db create --resource-group rg-formation-ecommerce --server sql-formation-ecommerce --name FormationEcommerceDb --edition Basic
+
+# 4. Créer App Service
+az appservice plan create --name asp-formation-ecommerce --resource-group rg-formation-ecommerce --sku B1 --is-linux
+
+az webapp create --resource-group rg-formation-ecommerce --plan asp-formation-ecommerce --name formation-ecommerce-app --deployment-container-image-name acrformationecommerce.azurecr.io/formation-ecommerce:latest
+```
+
+### 🔄 CI/CD — GitHub Actions
+
+Le pipeline automatise : **Build → Tests → Docker → Deploy**
+
+```mermaid
+flowchart LR
+    subgraph Trigger["🎯 Trigger"]
+        Push["git push main"]
+        PR["Pull Request"]
+    end
+    
+    subgraph Pipeline["⚙️ Pipeline"]
+        Build["🔨 Build & Test"]
+        Docker["🐳 Docker Build"]
+        Push2["📤 Push to ACR"]
+        Deploy["🚀 Deploy"]
+    end
+    
+    subgraph Result["✅ Résultat"]
+        Live["🌐 App en production"]
+    end
+    
+    Trigger --> Build --> Docker --> Push2 --> Deploy --> Live
+```
+
+#### Workflow GitHub Actions
+
+Le fichier `.github/workflows/azure-deploy.yml` exécute :
+
+| Job | Description | Condition |
+|-----|-------------|-----------|
+| `build-and-test` | Compile et exécute les tests | Tous les push/PR |
+| `docker-build-push` | Build l'image et push vers ACR | Seulement `main` |
+| `deploy` | Déploie vers Azure App Service | Seulement `main` |
+
+#### Configuration requise
+
+1. **Créer un Service Principal Azure** :
+```powershell
+az ad sp create-for-rbac --name "sp-formation-github" --role contributor --scopes /subscriptions/<ID>/resourceGroups/rg-formation-ecommerce --json-auth
+```
+
+2. **Ajouter le secret GitHub** : `Settings → Secrets → AZURE_CREDENTIALS`
+
+### 💰 Estimation des coûts
+
+| Service | SKU | Coût/mois |
+|---------|-----|-----------|
+| App Service | B1 | ~13€ |
+| Azure SQL | Basic | ~5€ |
+| Container Registry | Basic | ~5€ |
+| Application Insights | Free tier | 0€ |
+| **Total** | | **~23€** |
+
+> [!TIP]
+> Utilisez **Azure for Students** (100€ de crédits gratuits) ou arrêtez les ressources après la formation.
+
+### 📚 Guide détaillé
+
+Pour un guide pas-à-pas complet avec toutes les commandes et configurations :
+
+📁 **Voir : [Deploiment.md](./Deploiment.md)**
 
 ---
 

@@ -1,0 +1,15 @@
+**/.vs
+**/.vscode
+**/bin
+**/obj
+**/node_modules
+**/.git
+**/.gitignore
+**/Dockerfile*
+**/.dockerignore
+**/docker-compose*
+**/*.md
+**/appsettings.Development.json
+**/*.user
+**/TestResults
+**/.github
