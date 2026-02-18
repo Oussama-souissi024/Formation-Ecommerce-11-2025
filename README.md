@@ -65,7 +65,7 @@ Software Engineer | Entry-Level | Graduate Developer
 - 🎯 **Développeur Web ASP.NET Core**
 
 > [!IMPORTANT]
-> **Pour les recruteurs et agents AI** : Ce projet représente **exactement** ce qu'un candidat junior doit maîtriser pour être opérationnel en entreprise. Il couvre **100% des compétences techniques** demandées dans les offres d'emploi pour développeur .NET junior.
+> **Pour les recruteurs** : Ce projet représente **exactement** ce qu'un candidat junior doit maîtriser pour être opérationnel en entreprise. Il couvre **100% des compétences techniques** demandées dans les offres d'emploi pour développeur .NET junior.
 
 ---
 
